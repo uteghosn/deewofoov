@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ekiekiesh.ivantasevski.com/sitemap.xml
